@@ -2,19 +2,21 @@ html{
     background-color: black;
 }
 
-div{
+.wrapper{
     width: fit-content;
     margin-left: 20%;
 }
 
 img{
     border: 4px solid whitesmoke;
+    width: 100%;
 }
 
 h1{
     color: whitesmoke;
     text-align: center;
-    font-family: Playfair, serif;
+    font-family: "Playfair Display";
+    text-transform: uppercase;
 }
 
 h2{
